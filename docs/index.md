@@ -10,6 +10,7 @@ For node projects:
 
 ```bash
 npm install ProphetAlgorithms/bitcore-message-zero --save
+
 ```
 
 For client-side projects:
