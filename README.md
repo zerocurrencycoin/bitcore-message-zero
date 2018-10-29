@@ -13,11 +13,11 @@ See [the main bitcore repo](https://github.com/bitpay/bitcore) for more informat
 ## Getting Started
 
 ```sh
-npm install ProphetAlgorithms/bitcore-message-zero
+npm install zerocurrencycoin/bitcore-message-zero
 ```
 
 ```sh
-bower install ProphetAlgorithms/bitcore-message-zero
+bower install zerocurrencycoin/bitcore-message-zero
 ```
 
 To sign a message:

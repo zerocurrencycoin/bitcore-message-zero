@@ -9,13 +9,13 @@ Message Verification and Signing is implemented as a separate module and you mus
 For node projects:
 
 ```bash
-npm install ProphetAlgorithms/bitcore-message-zero --save
+npm install zerocurrencycoin/bitcore-message-zero --save
 ```
 
 For client-side projects:
 
 ```bash
-bower install ProphetAlgorithms/bitcore-message-zero --save
+bower install zerocurrencycoin/bitcore-message-zero --save
 ```
 
 ## Example
